@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=BuyLithium
+comment1.params=lithiumPricing
+comment1.target=BuyLithium(LithiumPricing)
+comment1.text=\r\n\ Constructor\ initialises\ prices\ set\ for\ each\ grade\r\n\ @param\ lithiumPricing\ Object\ that\ contains\ lithium\ grade\ pricing\r\n
+comment2.params=priceLimit
+comment2.target=void\ findBestPrice(int)
+comment2.text=\r\n\ Iterates\ through\ available\ grades\ of\ lithium\ and\ prints\ their\ price\r\n\ if\ it\ is\ below\ or\ equal\ to\ the\ priceLimit\ provided\r\n\ @param\ priceLimit\ Money\ limit\ of\ how\ much\ the\ customer\ is\ willing\ to\ pay\r\n
+comment3.params=gradeLimit
+comment3.target=void\ findHighQuality(int)
+comment3.text=\r\n\ Iterates\ through\ the\ prices\ and\ finds\ all\ "High\ quality"\ lithium\ samples\ that\ are\r\n\ equal\ to\ or\ above\ the\ given\ grade\ limit\ by\ the\ customer\r\n\ @param\ gradeLimit\ Minimum\ grade\ of\ lithium\ the\ customer\ would\ like\ to\ search\ for\r\n
+numComments=4

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=LithiumPricing
+comment1.params=
+comment1.target=LithiumPricing()
+comment1.text=\r\n\ Constructor\ initialises\ the\ hash\ map\r\n
+comment2.params=generateLithium
+comment2.target=void\ setPrice(GenerateLithium)
+comment2.text=\r\n\ Assigns\ a\ price\ to\ each\ lithium\ sample\ based\ on\ how\ high\ its\ grade\ is\r\n\ 1-9\ price\ is\ set\ to\ \u00A3300\r\n\ 10-19\ price\ is\ set\ to\ \u00A3600\r\n\ 20-29\ price\ is\ set\ to\ \u00A3900\r\n\ >29\ price\ is\ set\ to\ \u00A31250\r\n\ @param\ generateLithium\ Object\ that\ holds\ tray\ of\ generated\ lithium\r\n
+comment3.params=
+comment3.target=void\ printPrice()
+comment3.text=\r\n\ Prints\ lithium\ grade\ and\ its\ assigned\ price\ to\ console\ in\ a\ format,\r\n\ "Grade\ ->\ Price"\r\n\ @param\ tray\ Tray\ that\ was\ generated\ by\ GenerateLithium\ class\r\n
+comment4.params=
+comment4.target=java.util.HashMap\ getPrices()
+comment4.text=\r\n\ Returns\ Hash\ map\ with\ key\ value\ pair\ of\ grades\ and\ prices\r\n\ @return\ Hash\ map\ with\ grades\ corresponding\ to\ prices\r\n
+numComments=5
